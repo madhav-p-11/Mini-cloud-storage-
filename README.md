@@ -26,7 +26,7 @@
 
  After running above command run the command "./server 8080 storage" and the message will appear as "Server listening on port 8080, storage: storage"
 
-       IMAGE
+ ![image.alt](https://github.com/madhav-p-11/Mini-cloud-storage-/blob/main/Screenshot%20from%202025-11-16%2020-13-58.png
  
  
  This will run your server part on 8080 port and will create storage folder to handle files .
