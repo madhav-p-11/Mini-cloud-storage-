@@ -13,6 +13,7 @@
    For ubuntu and linux based terminal make a folder of your convienent name(xyz). Now upload all the three files [`server.c`](./server.c). [`client.c`](./client.c). [`Makefile`](Makefile). .
 
    #### Note:
+   
     Save or upload the [`Makefile`](Makefile). as it is. Do not change or rename . Save as capital 'M' and all things in small like "Makefile" . Do not use any extension behind like .m, .c,.cpp ....
    
    Now  open your folder(xyz) in the terminal window. After run the command "make".    
