@@ -22,7 +22,7 @@
  Now  open your folder(xyz) in the terminal window. After run the command "make".    
 
  
- IMAGE
+![image.alt](https://github.com/madhav-p-11/Mini-cloud-storage-/blob/main/Screenshot%20from%202025-11-16%2020-13-46.png)
 
  After running above command run the command "./server 8080 storage" and the message will appear as "Server listening on port 8080, storage: storage"
 
