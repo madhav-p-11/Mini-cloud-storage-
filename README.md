@@ -36,6 +36,9 @@
  Suppose you are running your server in terminal (T1):
    
  ##### T1->  ./server 8080 storage              
+
+![image.alt](https://github.com/madhav-p-11/Mini-cloud-storage-/blob/main/Screenshot%20from%202025-11-16%2020-19-58.png)
+
  
  ##here T2-> is just to show that it is terminal it is not part of command##
 
