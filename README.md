@@ -26,7 +26,7 @@
 
  After running above command run the command "./server 8080 storage" and the message will appear as "Server listening on port 8080, storage: storage"
 
-![image.alt](https://github.com/madhav-p-11/Mini-cloud-storage-/blob/main/Screenshot%20from%202025-11-16%2020-27-41.png)
+![image.alt](https://github.com/madhav-p-11/Mini-cloud-storage-/blob/main/Screenshot%20from%202025-11-16%2020-19-58.png)
 
  
  
@@ -46,6 +46,11 @@
  To start client_1  , run the command in T2 terminal as "./client 127.0.0.1 8080" and message will appear as "  OK WELCOME"
   
  ##### T2->  ./client 127.0.0.1 8080
+
+
+![image.alt](https://github.com/madhav-p-11/Mini-cloud-storage-/blob/main/Screenshot%20from%202025-11-16%2020-27-41.png)
+
+ 
 
  Likewise you can run multiple client in T3,T4,T4 .....etc.
     
