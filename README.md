@@ -14,7 +14,7 @@
 
    #### Note:
    
-      Save or upload the [`Makefile`](Makefile)   as it is.
+      Save or upload the "Makefile"   as it is.
 
       
  Do not change or rename . Save as capital 'M' and all things in small like "Makefile" . Do not use any extension behind like .m, .c,.cpp ....
@@ -26,7 +26,7 @@
 
  After running above command run the command "./server 8080 storage" and the message will appear as "Server listening on port 8080, storage: storage"
 
- IMAGE
+       IMAGE
  
  
  This will run your server part on 8080 port and will create storage folder to handle files .
