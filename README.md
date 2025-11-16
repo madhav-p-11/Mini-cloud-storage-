@@ -34,12 +34,14 @@
 
  Suppose you are running your server in terminal (T1):
    
- T1->  ./server 8080 storage                     ##here T2-> is just to show that it is terminal it is not part of command##
+ ##### T1->  ./server 8080 storage              
+ 
+ ##here T2-> is just to show that it is terminal it is not part of command##
 
  Now you have to open another terminal (T2) to run client . You can run multiple clients simultaneously with server in multiple termianls like (T2,T3...) respectively.
  To start client_1  , run the command in T2 terminal as "./client 127.0.0.1 8080" and message will appear as "  OK WELCOME"
   
- T2->  ./client 127.0.0.1 8080
+ ##### T2->  ./client 127.0.0.1 8080
 
  Likewise you can run multiple client in T3,T4,T4 .....etc.
     
